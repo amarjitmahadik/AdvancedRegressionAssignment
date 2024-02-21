@@ -18,13 +18,10 @@ The company want t build a reression model usin regularization to predict the ac
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## Submissions
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+There are two files - 
+- A Jupiter file (Advanced_regression_assignment)
+- A pdf file with subjective answers
 
 ## Conclusions
 - The conclusions are included in the Subjective Questions PDF file (Advance Regression Assignment - Subjective Questions)
